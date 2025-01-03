@@ -18,3 +18,6 @@
 
 ![image](https://github.com/user-attachments/assets/eaa05179-f0cb-485b-ae33-0451aa877964)
 
+# OUTPUT OF THE 2ND TASK
+
+![image](https://github.com/user-attachments/assets/3dfb2968-0cd3-433e-8487-c3f28104d8ea)
