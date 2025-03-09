@@ -14,7 +14,7 @@
 
 # ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS 
 
-# OUTPUT OF THE TASK
+# OUTPUT OF THE 1ST TASK
 
 ![image](https://github.com/user-attachments/assets/eaa05179-f0cb-485b-ae33-0451aa877964)
 
